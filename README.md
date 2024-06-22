@@ -22,7 +22,7 @@ pod 'OrderedJSONSerialization'
 OrderedJSONSerialization is available through [Swift Package Manager]. To install
 it, simply add the following line to your package.swift
 ```
-.package(url: "https://github.com/luistferreira/OrderedJSONSerialization.git",.exactItem("0.0.1"))
+.package(url: "https://github.com/luistferreira/OrderedJSONSerialization.git",.exactItem("0.0.2"))
 ```
 
 ## Author
