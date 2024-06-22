@@ -1,3 +1,4 @@
+import Foundation
 struct JSONWriter {
     var indent = 0
     let pretty: Bool
